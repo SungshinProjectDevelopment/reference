@@ -11,4 +11,5 @@ public class Rating extends AppCompatActivity {
         setContentView(R.layout.activity_rating);
     }
 	protected String samplestring;
+	protected String samplestring22;
 }
